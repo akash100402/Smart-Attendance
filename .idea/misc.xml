@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="C:\Users\yuvak\AppData\Local\Programs\Python\Python311\Scripts\black.exe" />
+    <option name="sdkUUID" value="58c592da-db6c-484c-b5f7-7dcc80219670" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (smart_att)" project-jdk-type="Python SDK" />
+</project>
